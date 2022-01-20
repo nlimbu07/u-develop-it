@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 DROP TABLE IF EXISTS candidates;
 DROP TABLE IF EXISTS parties;
+=======
+-- DROP TABLE IF EXISTS candidates;
+-- DROP TABLE IF EXISTS parties;
+>>>>>>> a32ceef7ff09bb4df4e9dab43695657daf61883e
 
 CREATE TABLE parties (
     id INTEGER AUTO_INCREMENT PRIMARY KEY,
